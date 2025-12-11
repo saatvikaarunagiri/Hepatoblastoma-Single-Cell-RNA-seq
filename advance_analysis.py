@@ -1,5 +1,4 @@
-#Advanced Analyses for Hepatoblastoma scRNA-seq
-#Includes: scCODA, PAGA (Trajectory inference), RNA velocity preparation and additional visualizations
+#Advanced Analyses for Hepatoblastoma scRNA-seq - scCODA, PAGA (Trajectory inference), RNA velocity preparation and additional visualizations
 
 
 import scanpy as sc
